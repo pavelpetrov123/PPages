@@ -1,1 +1,1 @@
-[QR Codes & Bar Codes Reader Privacy Policy](QRCodeReader-privacy.md)
+[QR Code & Bar Code Scanner Privacy Policy](QRCodeReader-privacy.md)
